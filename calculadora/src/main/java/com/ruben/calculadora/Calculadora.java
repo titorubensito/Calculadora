@@ -5,7 +5,7 @@
 package com.ruben.calculadora;
 
 /**
- *
+ * modificacion directa desde GitHub
  * @author xlrub
  */
 public class Calculadora {
