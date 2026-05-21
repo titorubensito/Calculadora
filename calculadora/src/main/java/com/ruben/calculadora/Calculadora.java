@@ -9,6 +9,8 @@ package com.ruben.calculadora;
  *
  * modificacion en la web de github
  * @author xlrub
+ *
+ * LINEA COMPAÑERO A
  */
 public class Calculadora {
 
