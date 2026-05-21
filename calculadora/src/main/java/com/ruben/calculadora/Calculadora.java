@@ -6,6 +6,10 @@ package com.ruben.calculadora;
 
 /**
  * modificacion directa desde GitHub
+ * 
+ * modificacion desde NetBeans
+ * 
+ * rama1
  * @author xlrub
  */
 public class Calculadora {
